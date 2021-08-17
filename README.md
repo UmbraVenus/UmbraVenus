@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmbraVenus
 - 👀 I’m interested in Data Science, Computer Science and Art
-- 🌱 I’m currently learning pandas
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on python, c++, mobile game development, data science project, datascience module
 - 📫 How to reach me victoriareworld@gmail.com
 
