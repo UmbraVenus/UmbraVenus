@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @UmbraVenus
-- 👀 I’m interested in Data Science, Computer Science and Art
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on python, c++, mobile game development, data science project, datascience module
-- 📫 How to reach me victoriareworld@gmail.com
+- 👀 I’m interested in Data Science, Computer Science, Game development, Software Engineering and Art~~ 
 
 <!---
 UmbraVenus/UmbraVenus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
